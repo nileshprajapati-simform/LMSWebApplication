@@ -37,7 +37,7 @@ Important Instructions for Packages:
 -Ensure that all dependencies are installed from NuGet public feed.
 -Create a NuGet.config file at the solution root
 ```
-
+```
 ---
 
 ## 3️⃣ Setup Database Connection (Let Copilot Decide)
@@ -73,7 +73,7 @@ Create entities:
 Use DataAnnotations like [Required] and [MaxLength].
 Change DB context to new LMSDbContext in program file
 ---
-
+```
 ## 5️⃣ Create Initial Migration & SQL Script
 
 **Prompt:**
